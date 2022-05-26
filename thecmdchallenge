@@ -1,0 +1,38 @@
+soluciones para the command line challenge
+
+--cd thecmdchallenge/
+
+--pwd
+
+--ls -a
+
+--ls -R
+
+--clear
+
+--cd y ls para ver que carpeta seguía hasta llegar a la última carpeta y cat trophy.txt también lo logré haciendo 
+cd ./bigger-name-than-before/omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type/this-is-probably-the-
+longest-folder-name-you-have-ever-seen-but-believe--im-sure-there-are-other-folder-bigger-than-this-one-bec
+ause-people-sometimes-like-to-assign-huge-names-to-their-personal-stuff-supercalifragilisticexpialidocious/
+todo eso haciendo tab después de ./ y al final cat trophy.txt
+
+-- ~ después cd /workspace/exercise-terminal-challenge/thecmdchallenge/funcode después  ls -a *.js
+
+--cd /workspace/exercise-terminal-challenge/thecmdchallenge/funcode/the-most-funny después mkdir not-that-funny
+
+--cd boringfolder/ después cd ./event-more-boring/i-can-believe-how-boring/the-ulrimate-boring-inception/ 
+después cp the-mostboring-text.txt lol.txt
+
+--cd ../../   y   cd ../../   y   mv funcode/kids.jpg funcode/images/hello/
+
+--rm -R small-name/
+
+--ls -R     y   ./funcode/the-most-funny/lol después cat ./the-ultimate-joke.txt
+
+--cd ../../   y  ../ cd boringfolder   y  rm *   y   rm -r event-more-boring/
+
+--vi dragon-ball-jokes.md
+
+--borré la primera linea y :wq para guardar y salir
+
+
